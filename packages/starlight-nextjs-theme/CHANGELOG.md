@@ -1,5 +1,11 @@
 # starlight-nextjs-theme
 
+## 0.2.2
+
+### Patch Changes
+
+- [`24cd5c2`](https://github.com/trueberryless-org/starlight-nextjs-theme/commit/24cd5c229370fd5c056593f25be6c98c118f9c45) Thanks [@trueberryless](https://github.com/trueberryless)! - Fix spacing between social icons when screen width is between 800px and 1151px
+
 ## 0.2.1
 
 ### Patch Changes
